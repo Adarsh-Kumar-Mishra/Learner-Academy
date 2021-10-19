@@ -1,12 +1,9 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<form action="getStudent">
-      <input type="text" name="student">
-      <input type="submit">
+<h1>Welcome To Learner's Academy</h1>
 
-</form>
-
+<h3><a href ="login.html" >Log In as Student</a></h3><br/><br/>
+<h3><a href ="loginTeacher.html" >Log In as Teacher</a></h3><br/>
 
 </body>
 </html>
